@@ -10,6 +10,3 @@
 pip install pymywork
 ```
 
-> version = 0.0.1
->
-> author = PJH

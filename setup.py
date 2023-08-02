@@ -24,7 +24,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",  # 所需要的依赖
     install_requires=[],  # 比如["flask>=0.10"]
     # 项目主页
-    url="https://www.baidu.com",
+    url="https://github.com/superupan/pymywork",
     # 项目中包含的子包，find_packages() 是自动发现根目录中的所有的子包。
     packages=setuptools.find_packages(),
     # 其他信息，这里写了使用 Python3，MIT License许可证，不依赖操作系统。
