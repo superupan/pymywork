@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pymywork/__init__.py
+pymywork/mywork.py
+pymywork.egg-info/PKG-INFO
+pymywork.egg-info/SOURCES.txt
+pymywork.egg-info/dependency_links.txt
+pymywork.egg-info/top_level.txt

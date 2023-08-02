@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pymywork
+Version: 0.0.1
+Summary: 简单代码上传测试
+Home-page: https://www.baidu.com
+Author: PJH
+Author-email: super-upan@outlook.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+简单代码上传测试
